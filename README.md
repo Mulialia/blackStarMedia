@@ -1,2 +1,2 @@
 # blackStarMedia
-A tool for community media reporting
+Test site for a tool for community media reporting
